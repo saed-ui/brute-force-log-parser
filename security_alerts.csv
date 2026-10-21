@@ -1,0 +1,4 @@
+ip,fails,first_seen,last_seen,users_tried
+192.168.1.45,13,2026-10-21 11:48:15,2026-10-21 11:48:45,admin;guest;jdoe;saeed;support;test
+203.0.113.7,9,2026-10-21 08:54:45,2026-10-21 08:55:03,admin;guest;jdoe;saeed;support
+10.0.0.66,8,2026-10-21 12:49:02,2026-10-21 12:49:14,admin;guest;root;support;test
