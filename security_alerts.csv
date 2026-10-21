@@ -1,0 +1,4 @@
+ip_address,failed_attempts,first_seen,last_seen,users_targeted
+192.168.1.45,18,2026-10-21 10:38:45,2026-10-21 10:39:27,admin;guest;jdoe;root;saeed;test
+203.0.113.7,11,2026-10-21 10:27:31,2026-10-21 10:27:58,admin;guest;support;test
+10.0.0.66,9,2026-10-21 10:40:09,2026-10-21 10:40:33,admin;guest;jdoe;test
